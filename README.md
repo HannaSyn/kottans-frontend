@@ -1,8 +1,8 @@
 # kottans-frontend
 ===
-##Basics
+## Basics
 ---
-###Git Basics
+### Git Basics
 
 It was very informative course for me! 
 At first I finished Udacity course. There was a lot of interesting and new information about Git.
