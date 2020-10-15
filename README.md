@@ -45,4 +45,4 @@ Some of them, (ex. grep) were new for me, I learned them and practice.
 
 Articles about HTTP are very informative and useful.
 I filled the gasps in knowledge about authentication, found out the difference between Basic Authentication and Digest Authentication - it was new information for me.
-Also I expended my understanding HTTP caching.
+Also I expended my understanding HTTP caching: processing and controll headers.
