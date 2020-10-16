@@ -65,7 +65,8 @@ I was surprised how many different and useful commands that I can do with git re
 - use `s` or `squash` – to combine this commit's changes into the previous commit (the commit above it in the list)
 - use `f` or `fixup` – to combine this commit's change into the previous one but drop the commit message
 - use `x` or `exec` – to run a shell command
-- use `d` or `drop` – to delete the commit
+- use `d` or `drop` – to delete the commit.
+
 I think that most of them I intend to use in future.
 
 ![Udacity-git_collab-screenshot](task_git_collaboration/Udacity-gitcollab-screenshot.png)
