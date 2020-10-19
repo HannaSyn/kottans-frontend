@@ -90,23 +90,24 @@ It was very helpful to understand:
 
 ## <a name="intro_html_css">Intro to HTML & CSS</a>
 
-There was nothing new for me in all 3 courses.
-I already knew all this stuffs.
+There was nothing new for me in [Intro to HTML and CSS Udacity](https://www.udacity.com/course/intro-to-html-and-css--ud001).
+I already knew all the concepts and rules.
 
 ![html&css_intro-screenshot](task_html_css_intro/html_css_intro-screenshot_01.png)
+
+And [Basics of HTML5 course on CodeAcademy](https://www.codecademy.com/learn/learn-html) also wasn't new for me. I repeated semantic to write HTML cleaner.
+
 ![html&css_intro-screenshot](task_html_css_intro/html_css_intro-screenshot_02.png)
+
+
+[Basics of CSS3 course on CodeAcademy](https://www.codecademy.com/learn/learn-css) was the most interesting for me amoung this 3 courses.
+I became more confident in `Grid Layout`, especially I interested in lesson [Advanced CSS GRID](https://www.codecademy.com/courses/learn-css/lessons/css-grid-ii/).
+
+Now I have learned new properties to use when creating a layout using CSS Grid:
+
+* `grid-template-areas` specifies grid named grid areas
+* `grid-auto-rows` specifies the height of rows added implicitly to the grid
+* `grid-auto-columns` specifies the width of columns added implicitly to the grid
+* `grid-auto-flow` specifies in which direction implicit elements should be created
+
 ![html&css_intro-screenshot](task_html_css_intro/html_css_intro-screenshot_03.png)
-
- Let’s review:
-
-grid-template-areas specifies grid named grid areas
-grid layouts are two-dimensional: they have a row, or inline, axis and a column, or block, axis.
-justify-items specifies how individual elements should spread across the row axis
-justify-content specifies how groups of elements should spread across the row axis
-justify-self specifies how a single element should position itself with respect to the row axis
-align-items specifies how individual elements should spread across the column axis
-align-content specifies how groups of elements should spread across the column axis
-align-self specifies how a single element should position itself with respect to the column axis
-grid-auto-rows specifies the height of rows added implicitly to the grid
-grid-auto-columns specifies the width of columns added implicitly to the grid
-grid-auto-flow specifies in which direction implicit elements should be created
