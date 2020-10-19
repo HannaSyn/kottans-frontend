@@ -7,6 +7,10 @@
 1. [Linux CLI, and HTTP](#linux_cli)
 2. [Git Collaboration](#git_collab)
 
+## Front-End Basics
+
+3. [Intro to HTML & CSS](#intro_html_css)
+
 
 ## <a name="git_basics">Git Basics</a>
 
@@ -83,3 +87,26 @@ It was very helpful to understand:
 ![LearnGitBranching-screenshot](task_git_collaboration/LearnGitBranching-screenshot_01.png)
 ![LearnGitBranching-screenshot](task_git_collaboration/LearnGitBranching-screenshot_02.png)
 ![LearnGitBranching-screenshot](task_git_collaboration/LearnGitBranching-screenshot_03.png)
+
+## <a name="intro_html_css">Intro to HTML & CSS</a>
+
+There was nothing new for me in all 3 courses.
+I already knew all this stuffs.
+
+![html&css_intro-screenshot](task_html_css_intro/html_css_intro-screenshot_01.png)
+![html&css_intro-screenshot](task_html_css_intro/html_css_intro-screenshot_02.png)
+![html&css_intro-screenshot](task_html_css_intro/html_css_intro-screenshot_03.png)
+
+ Let’s review:
+
+grid-template-areas specifies grid named grid areas
+grid layouts are two-dimensional: they have a row, or inline, axis and a column, or block, axis.
+justify-items specifies how individual elements should spread across the row axis
+justify-content specifies how groups of elements should spread across the row axis
+justify-self specifies how a single element should position itself with respect to the row axis
+align-items specifies how individual elements should spread across the column axis
+align-content specifies how groups of elements should spread across the column axis
+align-self specifies how a single element should position itself with respect to the column axis
+grid-auto-rows specifies the height of rows added implicitly to the grid
+grid-auto-columns specifies the width of columns added implicitly to the grid
+grid-auto-flow specifies in which direction implicit elements should be created
