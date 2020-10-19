@@ -97,7 +97,7 @@ I already knew all the concepts and rules.
 
 And [Basics of HTML5 course on CodeAcademy](https://www.codecademy.com/learn/learn-html) also wasn't new for me. I repeated semantic to write HTML cleaner.
 
-![html&css_intro-screenshot](task_html_css_intro/html_css_intro-screenshot_02.png)
+![html&css_intro-screenshot](task_html_css_intro/html_css_intro-screenshot_03.png)
 
 
 [Basics of CSS3 course on CodeAcademy](https://www.codecademy.com/learn/learn-css) was the most interesting for me amoung this 3 courses.
@@ -110,4 +110,4 @@ Now I have learned new properties to use when creating a layout using CSS Grid:
 * `grid-auto-columns` specifies the width of columns added implicitly to the grid
 * `grid-auto-flow` specifies in which direction implicit elements should be created
 
-![html&css_intro-screenshot](task_html_css_intro/html_css_intro-screenshot_03.png)
+![html&css_intro-screenshot](task_html_css_intro/html_css_intro-screenshot_02.png)
