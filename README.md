@@ -10,7 +10,7 @@
 ## Front-End Basics
 
 3. [Intro to HTML & CSS](#intro_html_css)
-
+4. [Responsive Web Design](#responsive)
 
 ## <a name="git_basics">Git Basics</a>
 
@@ -28,6 +28,12 @@ I learned many new concepts, how to:
 ![Udacity-screenshot](git_basics/udacity-screenshot_01.png)
 ![Udacity-screenshot](git_basics/udacity-screenshot_02.png)
 
+
+Then I had practice with [LearnGitBranching](https://learngitbranching.js.org).
+I learned how to branching, git pull and push commands.
+
+![LearnGitBranching-screenshot](git_basics/LearnBranching-intro.png)
+![LearnGitBranching-screenshot](task_git_collaboration/LearnGitBranching-screenshot_03.png)
 
 ## <a name="linux_cli">Linux CLI, and HTTP</a>
 
@@ -75,14 +81,13 @@ I think that most of them I intend to use in future.
 
 ![Udacity-git_collab-screenshot](task_git_collaboration/Udacity-gitcollab-screenshot.png)
 
-And after that I practice with [LearnGitBranching](https://learngitbranching.js.org)
+And after that I had practice with [LearnGitBranching](https://learngitbranching.js.org)
 It was very helpful to understand:
 
 * How branches works
 * How to work with remote repos
 * How to work in team with Git
 * Git fetch command
-* Git pull and push commands
 
 ![LearnGitBranching-screenshot](task_git_collaboration/LearnGitBranching-screenshot_01.png)
 ![LearnGitBranching-screenshot](task_git_collaboration/LearnGitBranching-screenshot_02.png)
@@ -111,3 +116,14 @@ Now I have learned new properties to use when creating a layout using CSS Grid:
 * `grid-auto-flow` specifies in which direction implicit elements should be created
 
 ![html&css_intro-screenshot](task_html_css_intro/html_css_intro-screenshot_02.png)
+
+
+## <a name="responsive">Responsive Web Design</a> 
+
+[Responsive Web Design Fundamentals course](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893) was not really new for me, but I refresh my knowledge about mediaqueries and responsive tables.
+
+![udacity_responsive-screenshot](task_responsive_web_design/udacity_responsive-screenshot.png)
+
+I've already played this awesome game before, but with pleasure did it again! I always think about frogs, when use flexbox :frog: [Flexbox Froggy](http://flexboxfroggy.com/).
+
+![flexfrogs-screenshot](task_responsive_web_design/flexfrogs-screenshot.png)
