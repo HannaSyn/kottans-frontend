@@ -1,16 +1,14 @@
 # kottans-frontend
 ---
 
-## General
+## My progress
 
-0. [Git Basics](#git_basics)
-1. [Linux CLI, and HTTP](#linux_cli)
-2. [Git Collaboration](#git_collab)
-
-## Front-End Basics
-
-3. [Intro to HTML & CSS](#intro_html_css)
-4. [Responsive Web Design](#responsive)
+1. [Git Basics](#git_basics)
+2. [Linux CLI, and HTTP](#linux_cli)
+3. [Git Collaboration](#git_collab)
+4. [Intro to HTML & CSS](#intro_html_css)
+5. [Responsive Web Design](#responsive)
+6. [HTML & CSS Practice](#hooli_popup)
 
 ## <a name="git_basics">Git Basics</a>
 
@@ -127,3 +125,13 @@ Now I have learned new properties to use when creating a layout using CSS Grid:
 I've already played this awesome game before, but with pleasure did it again! I always think about frogs, when use flexbox :frog: [Flexbox Froggy](http://flexboxfroggy.com/).
 
 ![flexfrogs-screenshot](task_responsive_web_design/flexfrogs-screenshot.png)
+
+## <a name="hooli_popup">HTML & CSS Practice</a> 
+
+[Demo](https://hannasyn.github.io/popup_task/)
+
+I've tryed really hard to create awesome popup :star_struck:
+I think that I get it, because I love it :heart_eyes:
+
+I've never done popups without JS before, so this expirience was so excited! 
+I learned how to _create buttons with checkboxes_, and its beatuful, I confidently intend to use it in future!
