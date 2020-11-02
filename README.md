@@ -9,6 +9,7 @@
 4. [Intro to HTML & CSS](#intro_html_css)
 5. [Responsive Web Design](#responsive)
 6. [HTML & CSS Practice](#hooli_popup)
+7. [JavaScript Basics](#js_basics)
 
 ## <a name="git_basics">Git Basics</a>
 
@@ -51,7 +52,7 @@ Also I expended my understanding HTTP caching: processing and controll headers.
 ## <a name="git_collab">Git Collaboration</a>
 
 [Udacity couse](https://classroom.udacity.com/courses/ud456) about GitHub was not completely new for me, I've already known mostly things.
-I repeated and become more confident in knowlege about forks.
+I repeated and become more confident in knowledge about forks.
 To get commits from a source repository into forked repository on GitHub I need to:
 
 * Get the cloneable URL of the source repository
@@ -135,3 +136,28 @@ I think that I get it, because I love it :heart_eyes:
 
 I've never done popups without JS before, so this expirience was so excited! 
 I learned how to _create buttons with checkboxes_, and its beatuful, I confidently intend to use it in future!
+
+## <a name="js_basics">JavaScript Basics</a> 
+
+At first, during [Udacity JS basics course](https://classroom.udacity.com/courses/ud803), I refreshed my knowledge about types, loops and conditionals in JS. 
+
+![Udacity-screenshot](task_js_basics/udacity_task_js.png)
+
+The second part was full of new methods and functions. 
+
+* _Basic JS exercises_ - 111 tiny tasks - really useful to learn and practice in JS basics.
+* _ES6 Challenges_ - I couldn't stop to solve it, and done all of them, it is very interesting.
+* _Basic Data Structures_ - manipulate with most important types of JS - Objects and Arrays - really exciting, I finally find out the difference between `slice()` and `splice()` on practice.
+* _Basic Algorithm Scripting_ - all the exercises were not so easy for me, but very interesting to solve.
+* _Functional Programming_ - this part help me to understand what functional programming accually is:
+
+  > Functional programming is about:
+  >  * Isolated functions - there is no dependence on the state of the program, which includes global variables that are subject to change
+  >  * Pure functions - the same input always gives the same output
+  >  * Functions with limited side effects - any changes, or mutations, to the state of the program outside the function are carefully controlled
+
+* _Algorithm Scripting Challenges_ :scream: -  it was the most dificult part for me. I've devided tasks on subtasks, looked for the hints or advice on MDN and google, but there were 2 times I've got a hint - in exercise "Diff two arrays" and "Pig latin". I guess, that I've learned my mistakes and fell gaps in skills. I itend to use loops more confidenty and often.
+
+![fcc-screenshot](task_js_basics/fcc_task_js.png)
+
+[_More screenshots here_](task_js_basics/)
