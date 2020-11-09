@@ -185,3 +185,7 @@ And done practical task: _Implement interactive side-menu site without page relo
 It was interesting and full of new knowledge topic. I really appreciate for reviews.
 
 ## <a name="pre_oop">Building a Tiny JS World (pre-OOP)</a> 
+
+I built a tiny JS world model.
+
+[Demo](https://hannasyn.github.io/a-tiny-JS-world/)
