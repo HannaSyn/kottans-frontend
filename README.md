@@ -10,6 +10,8 @@
 5. [Responsive Web Design](#responsive)
 6. [HTML & CSS Practice](#hooli_popup)
 7. [JavaScript Basics](#js_basics)
+8. [Document Object Model](#dom)
+9. [Building a Tiny JS World (pre-OOP)](#pre_oop)
 
 ## <a name="git_basics">Git Basics</a>
 
@@ -161,3 +163,25 @@ The second part was full of new methods and functions.
 ![fcc-screenshot](task_js_basics/fcc_task_js.png)
 
 [_More screenshots here_](task_js_basics/)
+
+## <a name="dom">Document Object Model</a> 
+
+At the first topic, [JavaScript and the DOM](https://classroom.udacity.com/courses/ud117), I've learned, how to:
+* Create content with JS
+* Work with events
+* Make event loops
+* Use `setTimeout()` method
+
+![screenshot01-js_dom](task_js_dom/udacity-js_dom.png)
+
+Also finish tasks at [freeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/)
+
+![screenshot02-js_dom](task_js_dom/fcc-js_dom.png)
+
+And done practical task: _Implement interactive side-menu site without page reloads._
+
+[Demo](https://hannasyn.github.io/DOM-facts/)
+
+It was interesting and full of new knowledge topic. I really appreciate for reviews.
+
+## <a name="pre_oop">Building a Tiny JS World (pre-OOP)</a> 
