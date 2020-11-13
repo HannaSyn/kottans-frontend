@@ -12,6 +12,7 @@
 7. [JavaScript Basics](#js_basics)
 8. [Document Object Model](#dom)
 9. [Building a Tiny JS World (pre-OOP)](#pre_oop)
+10. [Object-Oriented JavaScript](#oop)
 
 ## <a name="git_basics">Git Basics</a>
 
@@ -189,3 +190,20 @@ It was interesting and full of new knowledge topic. I really appreciate for revi
 I built a tiny JS world model.
 
 [Demo](https://hannasyn.github.io/a-tiny-JS-world/)
+
+## <a name="oop">Object-Oriented JavaScript</a> 
+
+Udacity oop course was full of new information for me.
+Now I know about _Scopes_ and _Closures_, I more confident and consciously use _this_.
+Was interesting to listen and do quizes about _Classes_, _Subclasses_ and its _Patterns_.
+
+![screenshot_js_oop](task_js_oop/udacity-oop.png)
+
+Then I did practice - to create a arcade frogger-game.
+Although was not easy, I was surprised, how great to build app with OOP. It was new expirience for me.
+
+[Demo](https://hannasyn.github.io/frogger-game/)
+
+Also I registered, joined Kottans clan, practiced tiny exercises at codewars and reached 7 kyu.
+
+[My codewars profile](https://www.codewars.com/users/HannaSyn)
