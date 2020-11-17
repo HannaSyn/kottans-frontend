@@ -13,6 +13,7 @@
 8. [Document Object Model](#dom)
 9. [Building a Tiny JS World (pre-OOP)](#pre_oop)
 10. [Object-Oriented JavaScript](#oop)
+11. [OOP exercise](#post-oop)
 
 ## <a name="git_basics">Git Basics</a>
 
@@ -207,3 +208,11 @@ Although was not easy, I was surprised, how great to build app with OOP. It was 
 Also I registered, joined Kottans clan, practiced tiny exercises at codewars and reached 7 kyu.
 
 [My codewars profile](https://www.codewars.com/users/HannaSyn)
+
+
+## <a name="post-oop">OOP Exercise</a> 
+
+I improve app Tiny JS world. It was unteresting - to work with hirarchy of classes, to learn modern 
+syntax and how to use it. 
+
+[Demo](https://hannasyn.github.io/a-tiny-JS-world/)
