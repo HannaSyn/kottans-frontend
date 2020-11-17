@@ -212,7 +212,7 @@ Also I registered, joined Kottans clan, practiced tiny exercises at codewars and
 
 ## <a name="post-oop">OOP Exercise</a> 
 
-I improve app Tiny JS world. It was unteresting - to work with hirarchy of classes, to learn modern 
+I improve app Tiny JS world. It was interesting - to work with hirarchy of classes, to learn modern 
 syntax and how to use it. 
 
 [Demo](https://hannasyn.github.io/a-tiny-JS-world/)
