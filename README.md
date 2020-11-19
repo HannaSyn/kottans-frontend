@@ -14,6 +14,7 @@
 9. [Building a Tiny JS World (pre-OOP)](#pre_oop)
 10. [Object-Oriented JavaScript](#oop)
 11. [OOP exercise](#post-oop)
+12. [Memory – Pair Game](#memory-game)
 
 ## <a name="git_basics">Git Basics</a>
 
@@ -133,7 +134,7 @@ I've already played this awesome game before, but with pleasure did it again! I 
 
 ## <a name="hooli_popup">HTML & CSS Practice</a> 
 
-[Demo](https://hannasyn.github.io/popup_task/)
+[Demo](https://hannasyn.github.io/popup_task/) | [Code](https://github.com/HannaSyn/popup_task)
 
 I've tryed really hard to create awesome popup :star_struck:
 I think that I get it, because I love it :heart_eyes:
@@ -182,7 +183,7 @@ Also finish tasks at [freeCodeCamp](https://www.freecodecamp.org/learn/javascrip
 
 And done practical task: _Implement interactive side-menu site without page reloads._
 
-[Demo](https://hannasyn.github.io/DOM-facts/)
+[Demo](https://hannasyn.github.io/DOM-facts/) | [Code](https://github.com/HannaSyn/DOM-facts)
 
 It was interesting and full of new knowledge topic. I really appreciate for reviews.
 
@@ -203,7 +204,7 @@ Was interesting to listen and do quizes about _Classes_, _Subclasses_ and its _P
 Then I did practice - to create a arcade frogger-game.
 Although was not easy, I was surprised, how great to build app with OOP. It was new expirience for me.
 
-[Demo](https://hannasyn.github.io/frogger-game/)
+[Demo](https://hannasyn.github.io/frogger-game/) | [Code](https://github.com/HannaSyn/frogger-game)
 
 Also I registered, joined Kottans clan, practiced tiny exercises at codewars and reached 7 kyu.
 
@@ -212,7 +213,15 @@ Also I registered, joined Kottans clan, practiced tiny exercises at codewars and
 
 ## <a name="post-oop">OOP Exercise</a> 
 
-I improve app Tiny JS world. It was interesting - to work with hirarchy of classes, to learn modern 
-syntax and how to use it. 
+I improve app Tiny JS world. It was interesting - to work with hirarchy of classes, to learn modern ES6 syntax and how to use it. Try to use **S.O.L.I.D** and **D.R.Y.** principles.
 
-[Demo](https://hannasyn.github.io/a-tiny-JS-world/)
+[Demo](https://hannasyn.github.io/a-tiny-JS-world/) | [Code](https://github.com/HannaSyn/a-tiny-JS-world)
+
+## <a name="memory-game">Memory – Pair Game</a>
+
+I was really excited during creating this game, because it was new challenge for my knowledge about JS.
+I think, that the result is really cool!
+
+[Demo](https://hannasyn.github.io/Memory-pair-game/) | [Code](https://github.com/HannaSyn/Memory-pair-game)
+
+I'm going to rewrite it according to OOP principles in future, I think, it will be another great challenge for me.
