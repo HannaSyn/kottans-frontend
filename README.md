@@ -15,6 +15,7 @@
 10. [Object-Oriented JavaScript](#oop)
 11. [OOP exercise](#post-oop)
 12. [Memory – Pair Game](#memory-game)
+13. [Friends App](#friends-app)
 
 ## <a name="git_basics">Git Basics</a>
 
@@ -225,3 +226,11 @@ I think, that the result is really cool!
 [Demo](https://hannasyn.github.io/Memory-pair-game/) | [Code](https://github.com/HannaSyn/Memory-pair-game)
 
 I'm going to rewrite it according to OOP principles in future, I think, it will be another great challenge for me.
+
+## <a name="friends-app">Friends App</a>
+
+I created a tiny social friends' search page with users cards, search, sorting of them by age, name and filtering by gender.
+This task helped me to understand, how works `fetch` and `async await`.
+Really appreciate for reviews =)
+
+[Demo](https://hannasyn.github.io/Friends_app/) | [Code](https://github.com/HannaSyn/Friends_app)
