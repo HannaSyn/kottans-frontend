@@ -16,6 +16,7 @@
 11. [OOP exercise](#post-oop)
 12. [Memory – Pair Game](#memory-game)
 13. [Friends App](#friends-app)
+14. [Offline Web Applications](#offline_app)
 
 ## <a name="git_basics">Git Basics</a>
 
@@ -234,3 +235,20 @@ This task helped me to understand, how works `fetch` and `async await`.
 Really appreciate for reviews =)
 
 [Demo](https://hannasyn.github.io/Friends_app/) | [Code](https://github.com/HannaSyn/Friends_app)
+
+## <a name="offline_app">Offline Web Applications</a>
+
+During this task I discovered the difference between a standart web app and an offline-first app.
+`Service Workers` was totaly new for me, I found out, that they has a `lifecycle`:
+
+![lifecycle_img](task_offline_web_app/lifecycle.jpg)
+
+This scheme helped me to understand stages of lifecycle.
+
+`IndexedDB API` also was new for me. It lets developers store just about anything in the user's browser. It is a low-level API for client-side storage of significant amounts of structured data, including files/blobs. This API uses indexes to enable high performance searches of this data. 
+In addition to the usual search, get, and put actions, IndexedDB also supports `transactions`.
+`Transaction` - is wrapper around an operation, or group of operations, that ensures database integrity.
+
+I definitely will use `IndexedDB API` along with `Service Workers` to write caching solutions that will help me to make an offline-first app.
+
+![screenshot_udacity](task_offline_web_app/Screenshot_udacity.png)
