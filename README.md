@@ -1,7 +1,7 @@
-# kottans-frontend
----
+# :smiley_cat: kottans-frontend :heart_eyes_cat:
 
-## My progress
+
+## My progress :rocket:
 
 1. [Git Basics](#git_basics)
 2. [Linux CLI, and HTTP](#linux_cli)
@@ -17,6 +17,7 @@
 12. [Memory – Pair Game](#memory-game)
 13. [Friends App](#friends-app)
 14. [Offline Web Applications](#offline_app)
+15. [Website Performance Optimization](#website_performance)
 
 ## <a name="git_basics">Git Basics</a>
 
@@ -198,8 +199,8 @@ I built a tiny JS world model.
 ## <a name="oop">Object-Oriented JavaScript</a> 
 
 Udacity oop course was full of new information for me.
-Now I know about _Scopes_ and _Closures_, I more confident and consciously use _this_.
-Was interesting to listen and do quizes about _Classes_, _Subclasses_ and its _Patterns_.
+Now I know about _Scopes_ and _Closures_, I became more confident and consciously use _this_.
+It was interesting to listen and do quizes about _Classes_, _Subclasses_ and its _Patterns_.
 
 ![screenshot_js_oop](task_js_oop/udacity-oop.png)
 
@@ -252,3 +253,44 @@ In addition to the usual search, get, and put actions, IndexedDB also supports `
 I definitely will use `IndexedDB API` along with `Service Workers` to write caching solutions that will help me to make an offline-first app.
 
 ![screenshot_udacity](task_offline_web_app/Screenshot_udacity.png)
+
+## <a name="website_performance">Website Performance Optimization</a>
+
+First of all, I read the article **Front-End Performance Checklist 2019**.
+There are tonn of new and tough information for me.
+I think it is very useful espesially at big projects to not forget about optimizations.
+I downloaded this _checklist_ and will try to use it at practice step by step.
+
+__Website Performance Optimization couse__ at Udacity was surpriced me.
+Through it, I found out, what is a _Critical Rendering Path_. It is the path that the browser passes before the page is rendered in the browser.
+
+In total, general strategies of website optimization are: 
+1. Minimize bytes.
+2. Reduce critical resourses.
+3. Shorten _Critical Rendering Path_ length.
+
+We need to minify, compress and cache files, use `mediaqueries` on `<link>`, use `async` attribute on `<script>`.
+
+![website_performance_ud_screenshot](task_website_performance/website_performance_ud.png)
+
+As final project I optimized views/pizza.html from 55 to 92. 
+
+![website_performance_ud_screenshot](task_website_performance/optimization_low.png)
+![website_performance_ud_screenshot](task_website_performance/optimization_high.png)
+
+__Browser Rendering Optimization__ course explained common performance issues on the web.
+I learned about the four parts of a web app's lifecycle: _RAIL_ (Response, Animate, Idle, and Load), how to use JavaScript to optimize animations and use web workers to speed up performance, how to manage page layers and improve page performance using the Chrome Dev Tools.
+
+![website_performance_ud_screenshot](task_website_performance/bro_screenshot.png)
+
+__Responsive Images course__ explained how to optimize images to display beautifully on all screen sizes, and about the difference between raster and vector images, responsive CSS units, and setting up optimization tools.
+I was surprised to use the srcset attribute and the picture element to choose images of the right size for application for every viewing context.
+
+![website_performance_ud_screenshot](task_website_performance/ri_screenshot.png)
+
+Thanks to articles, I became more confident in understanding how to write optimized code, what is _repaints_ and _reflows_, and how it affected affected page speed. 
+I will use it in my future projects. 
+
+---
+
+In conclusion, I want to emphasize, that I really appriciate for this Stage 0. I look at this repo, and see, how deep I dive, and how much I already know, and how much I don't know YET.
